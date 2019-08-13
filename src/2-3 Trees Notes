@@ -1,0 +1,11 @@
+2 - 3 search tree:
+
+1. Guarantee performance,
+2. 1 or 2 keys per node
+    2-node: one key
+    3-node: two key
+
+    perfect balance
+        Every path from root to null has equal keys
+    Symmetric order
+        keys in ascending order
